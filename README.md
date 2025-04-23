@@ -28,8 +28,6 @@ All modules use basic Verilog primitives to model real hardware behavior.
 ![Full Adder Output](results/full_adder_output.png)
 
 ### 3. Full Subtractor
-#### Schematic
-![Full Subtractor Schematic](results/full_subtractor.png)
 
 #### Output Waveform
 ![Full Subtractor Output](results/full_subtractor_output.png)
@@ -39,7 +37,7 @@ All modules use basic Verilog primitives to model real hardware behavior.
 ![Controlled Adder-Subtractor Schematic](results/controlled_adder_sub.png)
 
 #### Output Waveform
-![Controlled Adder-Subtractor Output](results/controlled_adder_sub.png)
+![Controlled Adder-Subtractor Output](results/controlled_adder_sub_output.png)
 
 ## How It Works
 - **Half Adder:** Computes sum and carry of two bits.
